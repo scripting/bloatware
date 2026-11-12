@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="2.0">
+	<head>
+		<title>Kim Parker's Blog</title>
+		<dateModified>Sat, 01 Feb 2014 19:12:52 GMT</dateModified>
+		<generator>opml v0.5.8 (npmjs.com/package/opml)</generator>
+		</head>
+	<body>
+		<outline text="2014" type="calendarYear" name="2014" >
+			<outline text="February 2014" type="calendarMonth" name="02" url="https://demo.bloatware.org/kimParker/2014/02/index.md" >
+				<outline text="February 1" type="calendarDay" name="01" url="https://demo.bloatware.org/kimParker/2014/02/01/kimOnHeroku.md" />
+				</outline>
+			<outline text="January 2014" type="calendarMonth" name="01" url="https://demo.bloatware.org/kimParker/2014/01/index.md" >
+				<outline text="January 30" type="calendarDay" name="30" url="https://demo.bloatware.org/kimParker/2014/01/30/newBloatwareorgHome.md" />
+				<outline text="January 10" type="calendarDay" name="10" url="https://demo.bloatware.org/kimParker/2014/01/10/mySiteMakesHistory.md" />
+				</outline>
+			</outline>
+		<outline text="2013" type="calendarYear" name="2013" >
+			<outline text="December 2013" type="calendarMonth" name="12" url="https://demo.bloatware.org/kimParker/2013/12/index.md" >
+				<outline text="December 27" type="calendarDay" name="27" url="https://demo.bloatware.org/kimParker/2013/12/27/welcomeToMyGithubRepo.md" />
+				</outline>
+			<outline text="August 2013" type="calendarMonth" name="08" url="https://demo.bloatware.org/kimParker/2013/08/index.md" >
+				<outline text="August 2" type="calendarDay" name="02" url="https://demo.bloatware.org/kimParker/2013/08/02/testPost.md" />
+				</outline>
+			<outline text="July 2013" type="calendarMonth" name="07" url="https://demo.bloatware.org/kimParker/2013/07/index.md" >
+				<outline text="July 16" type="calendarDay" name="16" url="https://demo.bloatware.org/kimParker/2013/07/16/anotherMarkdownPost.md" />
+				<outline text="July 1" type="calendarDay" name="01" url="https://demo.bloatware.org/kimParker/2013/07/01/happyJuly.md" />
+				</outline>
+			<outline text="June 2013" type="calendarMonth" name="06" url="https://demo.bloatware.org/kimParker/2013/06/index.md" >
+				<outline text="June 25" type="calendarDay" name="25" url="https://demo.bloatware.org/kimParker/2013/06/25/myFirstMeeting.md" />
+				</outline>
+			</outline>
+		<outline text="About Me! :-)" type="link" url="https://demo.bloatware.org/kimParker/aboutKim.md" />
+		<outline text="A place to discuss" type="link" url="https://demo.bloatware.org/kimParker/aPlaceToDiscuss.md" />
+		</body>
+	</opml>

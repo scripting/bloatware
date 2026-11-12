@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="2.0">
+	<head>
+		<title>Bloatware</title>
+		</head>
+	<body>
+		<outline text="Bloatware" type="link" url="https://demo.bloatware.org/readme.md" />
+		<outline text="Kim Parker's Blog" type="include" url="https://demo.bloatware.org/kimParker/.well-known/toc.opml" />
+		</body>
+	</opml>
